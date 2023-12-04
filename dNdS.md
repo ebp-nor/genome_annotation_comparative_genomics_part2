@@ -1,6 +1,8 @@
 ## 00 - Let's set up things:
+```
 [Note to self, OLE IS CHANGING THIS] source /projects/ec146/work/jose/source_file
 conda activate selection
+```
 
 ## 01 - first let's move to the right folder and make a proper folder structure
 # Copy and paste the following
