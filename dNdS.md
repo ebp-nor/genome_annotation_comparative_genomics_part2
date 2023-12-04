@@ -13,7 +13,7 @@ mkdir 00_data  01_alignments  02_zorro  03_tree  04_absrel
 
 ### 02 - Now, let's fetch the data we need.
 ```
-cp /projects/ec146/work/jose/data/*fa ./00_data
+cp /projects/ec146/data/dnds/*fa ./00_data
 
 # You can take a look at it:
 less ./00_data/*fa
