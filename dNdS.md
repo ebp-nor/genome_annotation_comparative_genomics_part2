@@ -54,5 +54,5 @@ cd ..
 ```
 for i in OG0000246.fai  OG0000251.fai; do hyphy absrel --alignment 01_alignments/$i --tree 03_tree/${i}.treefile > 04_absrel/${i%.fai}.hyphy; echo "$i done"; mv 01_alignments/${i}.ABSREL.json 04_absrel/${i}.ABSREL.json; done
 
-# Explore the output.
+# Explore the output and we will discuss it later.
 ```
