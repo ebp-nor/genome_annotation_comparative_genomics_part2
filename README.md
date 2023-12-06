@@ -14,8 +14,8 @@ This repository contains the course materials for the workshop Genome annotation
 
 ### 12:00-13:00 Lunch
 
-### 13:00-14:00 Dn/Ds and the adaptive story (15 minutes presentation, 45 minutes coding)
+### 13:00-14:00 [Spiderman and the adaptive story](https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/dNdS.md) (15 minutes presentation, 45 minutes coding)
 *
 ### 14:00-14:15 Break
 
-### 14:15-16:00 Dn/Ds and the adaptive story (15 minutes presentation) & Final words
+### 14:15-16:00 Spiderman and the adaptive story (15 minutes presentation) & Final words
