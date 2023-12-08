@@ -1,6 +1,11 @@
 # Genome annotation and comparative genomics, part 2
 
-This repository contains the course materials for the workshop Genome annotation and comparative genomics, part 1 created for the Oslo Bioinformatics Workshop Week 2023 and taught by people in the EBP-Nor project. The course is run on infrastructure provided by the University of Oslo. 
+This repository contains the course materials for the workshop Genome annotation and comparative genomics, part 2 created for the Oslo Bioinformatics Workshop Week 2023 and taught by people in the EBP-Nor project. The course is run on infrastructure provided by the University of Oslo. 
+
+This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo Bioinformatics Workshop Week 2023 itself. 
+
+![](EBP_Nor-orig.png)
+
 
 ##  Genome annotation and comparative genomics, part 2 - Schedule
 
@@ -15,7 +20,7 @@ This repository contains the course materials for the workshop Genome annotation
 ### 12:00-13:00 Lunch
 
 ### 13:00-14:00 [Spiderman and the adaptive story](https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/dNdS.md) (15 minutes presentation, 45 minutes coding)
-*
+
 ### 14:00-14:15 Break
 
 ### 14:15-16:00 Spiderman and the adaptive story (15 minutes presentation) & Final words
