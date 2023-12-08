@@ -4,7 +4,7 @@ This repository contains the course materials for the workshop Genome annotation
 
 This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo Bioinformatics Workshop Week 2023 itself. 
 
-<img src="EBP_Nor-orig.png" alt="EBP_Nor logo" width="200"/>
+<img src="EBP_Nor-orig.png" alt="EBP_Nor logo" width="300"/>
 
 
 
