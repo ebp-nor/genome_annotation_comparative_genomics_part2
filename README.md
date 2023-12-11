@@ -13,7 +13,7 @@ This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo B
 ### 09:00-12:00 OrthoFinder on proteins
 
 * 09:00-09:30 Introduction to OrthoFinder and [introduction to the study system and infrastructure](00_introduction.md)
-* 09:30-11:55
+* 09:30-11:55 [Vizualising OrthoFinder results](https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/Obiwow_orthofinder_stats_2023_2.html)
 
 * 11:55-12:00 Summary
 
