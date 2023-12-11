@@ -1,3 +1,20 @@
+Understanding the impact of adaptive pressures on genome evolution is a fundamental goal in biology. Natural Selection primarily operates on the phenotype, but its traces can be discerned at the genetic level, manifesting as signatures of selection. One widely employed approach to identify these signatures is the dN/dS ratio analysis.
+
+dN measures the substitution rate for nonsynonymous mutations, which can directly alter protein function, while dS quantifies the rate for synonymous mutations, which do not affect amino acid sequence. Departures from the expected neutral dN/dS ratio are considered indicative of selection.
+
+A ratio greater than 1 suggests positive selection, where nonsynonymous substitutions accumulate at a faster rate than synonymous ones, implying adaptive evolution. A ratio close to 1 indicates neutral evolution, where both types of mutations evolve at similar rates. Conversely, a ratio less than 1 implies purifying selection, where nonsynonymous substitutions accumulate more slowly than synonymous ones, suggesting the removal of deleterious mutations.
+
+For our analyses we will utilize HyPhy, a comprehensive tool that employs phylogenetic trees and alignments to unravel signatures at the sequence-level. Within HyPhy, we will employ abSREL, a branch-site method specifically designed to detect lineage-specific evolution.
+
+abSREL investigates whether a particular lineage or lineages have undergone selection, categorizing them as "branch models." It assesses whether a fraction of sites along specific branches or lineages exhibit positive selection. abSREL is particularly well-suited for:
+Exploratory testing for lineage-specific positive selection in sequences up to 100.
+Evaluating branches selected a priori.
+
+Note that abSREL does not explicitly test for purifying selection, as the null model and the alternative model provide identical performance under purifying conditions. Consequently, the resulting P-value is 1.
+
+To identify lineage-specific diversifying selection, abSREL compares the full model to a nested null model, utilizing a likelihood ratio test to determine statistical significance. Furthermore, it employs Bonferroni-Holm procedures to correct P-values obtained from individual tests for multiple comparisons, mitigating the risk of false positives.
+
+
 ### 00 - Let's begin by setting up our environment:
 ```
 conda activate selection
