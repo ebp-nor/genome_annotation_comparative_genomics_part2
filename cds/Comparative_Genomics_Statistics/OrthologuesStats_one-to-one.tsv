@@ -1,0 +1,9 @@
+	AspNid.cds-transcripts	ggMorZona1.cds-transcripts	gzLinHyal1.cds-transcripts	gzMorAlpi1.cds-transcripts	gzPodHuml1.cds-transcripts	gzUmbIsab1.cds-transcripts	gzUmbRama1.cds-transcripts	gzUmbVina1.cds-transcripts
+AspNid.cds-transcripts	0.0	65.0	63.0	71.0	67.0	63.0	63.0	61.0
+ggMorZona1.cds-transcripts	65.0	0.0	8829.0	1915.0	1897.0	62.0	62.0	64.0
+gzLinHyal1.cds-transcripts	63.0	8829.0	0.0	2153.0	2123.0	74.0	64.0	67.0
+gzMorAlpi1.cds-transcripts	71.0	1915.0	2153.0	0.0	1776.0	79.0	67.0	74.0
+gzPodHuml1.cds-transcripts	67.0	1897.0	2123.0	1776.0	0.0	73.0	68.0	75.0
+gzUmbIsab1.cds-transcripts	63.0	62.0	74.0	79.0	73.0	0.0	1327.0	1268.0
+gzUmbRama1.cds-transcripts	63.0	62.0	64.0	67.0	68.0	1327.0	0.0	1529.0
+gzUmbVina1.cds-transcripts	61.0	64.0	67.0	74.0	75.0	1268.0	1529.0	0.0
