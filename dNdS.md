@@ -19,6 +19,13 @@ To identify lineage-specific diversifying selection, abSREL compares the full mo
 ```
 eval "$(/fp/projects01/ec146/miniconda3/bin/conda shell.bash hook)" 
 conda activate selection
+
+# How to create an environment:
+# conda create -n selection
+# conda activate selection
+# conda install -c bioconda hyphy
+# conda install -c bioconda zorro
+
 ```
 
 ### 01 - first let's move to the right folder and make a proper folder structure
