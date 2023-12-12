@@ -22,7 +22,7 @@ This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo B
 
 * 13:00-14:00 [Spiderman and the adaptive story](https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/dNdS.md)
   * 15 minutes [presentation](slides_afternoon_2.pdf)
-  * 45 minutes coding)
+  * 45 minutes coding
 * 14:00-14:15 Break
 * 14:15-16:00 Spiderman and the adaptive story
   * 15 minutes presentation 
