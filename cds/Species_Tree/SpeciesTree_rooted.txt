@@ -1,0 +1,1 @@
+(((gzUmbIsab1.cds-transcripts:0.453289,gzUmbVina1.cds-transcripts:0.393073):0.0206483,gzUmbRama1.cds-transcripts:0.401423):0.0620535,(((gzPodHuml1.cds-transcripts:0.495974,(ggMorZona1.cds-transcripts:0.0515944,gzLinHyal1.cds-transcripts:0.0667536):0.402203):0.0238334,gzMorAlpi1.cds-transcripts:0.489373):0.0880651,AspNid.cds-transcripts:0.785363):0.0620535);
