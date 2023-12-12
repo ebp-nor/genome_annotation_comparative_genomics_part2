@@ -25,6 +25,7 @@ conda activate selection
 # conda activate selection
 # conda install -c bioconda hyphy
 # conda install -c bioconda zorro
+# conda install -c bioconda prank
 
 ```
 
