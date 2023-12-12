@@ -1,0 +1,1 @@
+(AspNid.proteins:0.435018,(((gzMorAlpi1.proteins:0.166252,(ggMorZona1.proteins:0.031061,gzLinHyal1.proteins:0.0280712)0.956396:0.144665)0.565694:0.0490703,gzPodHuml1.proteins:0.179202)0.98585:0.332241,(gzUmbIsab1.proteins:0.139402,(gzUmbVina1.proteins:0.125774,gzUmbRama1.proteins:0.124522)0.463182:0.0476368)0.980364:0.314854)1:0.435018);
