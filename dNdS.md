@@ -17,6 +17,7 @@ To identify lineage-specific diversifying selection, abSREL compares the full mo
 
 ### 00 - Let's begin by setting up our environment:
 ```
+eval "$(/fp/projects01/ec146/miniconda3/bin/conda shell.bash hook)" 
 conda activate selection
 ```
 
