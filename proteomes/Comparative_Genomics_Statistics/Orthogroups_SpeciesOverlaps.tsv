@@ -1,0 +1,9 @@
+	AspNid.proteins	ggMorZona1.proteins	gzLinHyal1.proteins	gzMorAlpi1.proteins	gzPodHuml1.proteins	gzUmbIsab1.proteins	gzUmbRama1.proteins	gzUmbVina1.proteins
+AspNid.proteins	5096	3916	3921	3905	3939	4107	4140	4106
+ggMorZona1.proteins	3916	9373	9225	7482	7490	4924	4935	4901
+gzLinHyal1.proteins	3921	9225	9412	7488	7493	4928	4942	4900
+gzMorAlpi1.proteins	3905	7482	7488	7929	7372	4901	4909	4865
+gzPodHuml1.proteins	3939	7490	7493	7372	8104	4971	4980	4945
+gzUmbIsab1.proteins	4107	4924	4928	4901	4971	7723	7420	7364
+gzUmbRama1.proteins	4140	4935	4942	4909	4980	7420	7781	7413
+gzUmbVina1.proteins	4106	4901	4900	4865	4945	7364	7413	7763
