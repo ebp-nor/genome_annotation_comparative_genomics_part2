@@ -12,7 +12,8 @@ This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo B
 
 ### 09:00-12:00 OrthoFinder on proteins
 
-* 09:00-09:30 Introduction to OrthoFinder and [introduction to the study system and infrastructure](00_introduction.md)
+* 09:00-09:30 [Introduction to OrthoFinder](slides_morning_2.pdf) and [introduction to the study system and infrastructure](00_introduction.md)
+ 
 * 09:30-11:55 [Vizualising OrthoFinder results](https://htmlpreview.github.io/?https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/Obiwow_orthofinder_stats_2023_2.html)
 
 * 11:55-12:00 Summary
@@ -20,7 +21,7 @@ This workshop is sponsored by EBP-Nor in addition to the sponsors for the Oslo B
 ### 12:00-13:00 Lunch
 
 * 13:00-14:00 [Spiderman and the adaptive story](https://github.com/ebp-nor/genome_annotation_comparative_genomics_part2/blob/main/dNdS.md)
-  * 15 minutes presentation
+  * 15 minutes [presentation](slides_afternoon_2.pdf)
   * 45 minutes coding)
 * 14:00-14:15 Break
 * 14:15-16:00 Spiderman and the adaptive story
